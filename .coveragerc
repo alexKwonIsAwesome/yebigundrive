@@ -1,0 +1,5 @@
+[run]
+include = yebigun_drive/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
